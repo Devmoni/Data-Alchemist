@@ -1,0 +1,33 @@
+WorkerID,WorkerName,Skills,AvailableSlots,MaxLoadPerPhase,WorkerGroup,QualificationLevel
+W1,Alice Johnson,"python,java,react,data,ml","[1,2,3,4,5]",3,senior,senior
+W2,Bob Smith,"python,backend,db,java","[2,3,4,5]",2,senior,senior
+W3,Carol Davis,"react,ui,design,frontend","[1,3,5]",2,mid,mid
+W4,David Wilson,"java,spring,microservices","[2,4]",1,mid,mid
+W5,Eva Brown,"python,testing,qa,automation","[1,2,3,4,5]",2,junior,junior
+W6,Frank Miller,"react,frontend,js,typescript","[3,4,5]",1,junior,junior
+W7,Grace Lee,"ml,ai,python,data","[1,2,3]",2,senior,senior
+W8,Henry Chen,"java,backend,api,spring","[2,3,4,5]",3,senior,senior
+W9,Ivy Rodriguez,"python,data,analytics,sql","[1,2,4,5]",2,mid,mid
+W10,Jack Thompson,"react,ui,design,figma","[1,2,3,4]",1,mid,mid
+W11,Kate Williams,"java,testing,qa,selenium","[2,3,4,5]",2,junior,junior
+W12,Liam O'Connor,"python,ml,ai,deeplearning","[1,3,4,5]",2,senior,senior
+W13,Maya Patel,"react,frontend,js,angular","[1,2,3,4,5]",2,mid,mid
+W14,Nick Anderson,"java,backend,db,mysql","[2,3,4]",1,mid,mid
+W15,Olivia Garcia,"python,data,visualization,tableau","[1,2,3,5]",2,junior,junior
+W16,Paul Martinez,"react,ui,design,sketch","[2,3,4,5]",1,mid,mid
+W17,Quinn Taylor,"java,spring,cloud,aws","[1,2,3,4,5]",3,senior,senior
+W18,Rachel Kim,"python,ml,ai,tensorflow","[2,3,4,5]",2,senior,senior
+W19,Sam Johnson,"react,frontend,js,vue","[1,2,3,4]",2,mid,mid
+W20,Tina Wang,"java,backend,api,rest","[3,4,5]",1,mid,mid
+W21,Umberto Rossi,"python,data,analytics,pandas","[1,2,3,4,5]",2,senior,senior
+W22,Vera Singh,"react,ui,design,adobexd","[1,3,4,5]",1,mid,mid
+W23,Walter White,"java,testing,qa,junit","[2,3,4,5]",2,junior,junior
+W24,Xena Chen,"python,ml,ai,scikit","[1,2,3,4]",2,senior,senior
+W25,Yuki Tanaka,"react,frontend,js,nextjs","[1,2,3,4,5]",2,mid,mid
+W26,Zara Ahmed,"java,backend,db,postgresql","[2,3,4,5]",1,mid,mid
+W27,Alex Morgan,"python,data,analytics,excel","[1,2,3,4]",2,junior,junior
+W28,Bella Cruz,"react,ui,design,invision","[2,3,4,5]",1,mid,mid
+W29,Chris Lee,"java,spring,security,oauth","[1,2,3,4,5]",3,senior,senior
+W30,Diana Prince,"python,ml,ai,pytorch","[2,3,4,5]",2,senior,senior
+
+

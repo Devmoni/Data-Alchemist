@@ -1,0 +1,53 @@
+TaskID,TaskName,Category,Duration,RequiredSkills,PreferredPhases,MaxConcurrent
+T1,Data Analysis Pipeline,analysis,2,"python,data","[1,2,3]",3
+T2,API Development,backend,3,"java,backend","[2,3,4]",2
+T3,UI Design System,frontend,1,"react,ui,design","[1,3,5]",2
+T4,Machine Learning Model,ml,4,"python,ml,ai","[2,3,4,5]",1
+T5,Testing Framework,qa,2,"python,testing,qa","[3,4,5]",3
+T6,Database Migration,backend,1,"java,db","[1,2]",1
+T7,Frontend Development,frontend,2,"react,frontend,js","[2,3,4]",2
+T8,System Integration,backend,3,"java,spring,microservices","[4,5]",1
+T9,Data Visualization,analysis,2,"python,data,analytics","[2,3,4]",2
+T10,API Testing,qa,1,"java,testing,qa","[3,4,5]",3
+T11,UI Component Library,frontend,2,"react,ui,design","[1,2,3]",2
+T12,ML Pipeline Optimization,ml,3,"python,ml,ai","[2,3,4]",1
+T13,Database Optimization,backend,2,"java,backend,db","[3,4,5]",2
+T14,Frontend Testing,qa,1,"react,testing,qa","[4,5]",3
+T15,API Documentation,backend,1,"java,backend","[1,2,3]",2
+T16,Data ETL Process,analysis,3,"python,data,analytics","[2,3,4]",2
+T17,UI/UX Research,frontend,2,"react,ui,design","[1,2,3]",1
+T18,Performance Testing,qa,2,"python,testing,qa","[3,4,5]",2
+T19,Microservices Architecture,backend,4,"java,spring,microservices","[2,3,4,5]",1
+T20,Data Science Analysis,ml,3,"python,ml,ai,data","[2,3,4]",2
+T21,Frontend Architecture,frontend,2,"react,frontend,js","[1,2,3]",2
+T22,API Security Audit,backend,2,"java,backend,security","[3,4,5]",1
+T23,UI Accessibility Audit,frontend,1,"react,ui,design","[2,3,4]",2
+T24,Load Testing,qa,2,"python,testing,qa","[4,5]",2
+T25,Database Design,backend,3,"java,backend,db","[1,2,3]",1
+T26,Data Analytics Dashboard,analysis,2,"python,data,analytics","[2,3,4]",2
+T27,API Gateway Setup,backend,2,"java,spring,cloud","[3,4,5]",1
+T28,Frontend Performance,frontend,2,"react,frontend,js","[1,2,3]",2
+T29,Automated Testing Suite,qa,3,"python,testing,qa,automation","[2,3,4]",2
+T30,Cloud Infrastructure,backend,4,"java,spring,cloud,aws","[3,4,5]",1
+T31,Data Pipeline Monitoring,analysis,2,"python,data,analytics","[1,2,3]",2
+T32,API Versioning Strategy,backend,2,"java,backend,api","[2,3,4]",2
+T33,UI Design System Update,frontend,1,"react,ui,design","[3,4,5]",2
+T34,Integration Testing,qa,2,"java,testing,qa","[4,5]",3
+T35,Database Backup System,backend,2,"java,backend,db","[1,2,3]",1
+T36,Frontend State Management,frontend,2,"react,frontend,js","[2,3,4]",2
+T37,API Rate Limiting,backend,1,"java,backend,api","[3,4,5]",2
+T38,Data Quality Assurance,analysis,2,"python,data,analytics","[1,2,3]",2
+T39,UI Responsive Design,frontend,2,"react,ui,design","[2,3,4]",2
+T40,Performance Monitoring,backend,3,"java,backend,monitoring","[3,4,5]",1
+T41,Frontend Build Optimization,frontend,2,"react,frontend,js","[1,2,3]",2
+T42,API Error Handling,backend,1,"java,backend,api","[2,3,4]",2
+T43,Data Security Audit,analysis,2,"python,data,security","[3,4,5]",1
+T44,UI Animation System,frontend,1,"react,ui,design","[1,2,3]",2
+T45,End-to-End Testing,qa,3,"python,testing,qa","[2,3,4]",2
+T46,Database Scaling,backend,3,"java,backend,db","[3,4,5]",1
+T47,Frontend SEO Optimization,frontend,1,"react,frontend,js","[4,5]",2
+T48,API Caching Strategy,backend,2,"java,backend,api","[1,2,3]",2
+T49,Data Migration Script,analysis,2,"python,data,analytics","[2,3,4]",1
+T50,UI Internationalization,frontend,2,"react,ui,design","[3,4,5]",2
+
+
