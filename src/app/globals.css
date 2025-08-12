@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+/* AG Grid dark overrides */
+.dark-grid {
+  --ag-foreground-color: #e5e7eb;
+  --ag-background-color: #111827; /* neutral-900 */
+  --ag-header-foreground-color: #e5e7eb;
+  --ag-header-background-color: #1f2937; /* neutral-800 */
+  --ag-data-color: #e5e7eb;
+  --ag-odd-row-background-color: #111827;
+  --ag-even-row-background-color: #0f172a; /* slate-950-ish */
+  --ag-borders: #374151;
+  --ag-secondary-border-color: #374151;
+  --ag-input-border-color: #374151;
+  --ag-control-panel-background-color: #111827;
+  --ag-wrapper-border-radius: 0.75rem;
+}
+
+.dark-grid .ag-root-wrapper-body, .dark-grid .ag-root-wrapper {
+  border-radius: 0.75rem;
+}
+
+.dark-grid .ag-input-field-input, .dark-grid .ag-filter-toolpanel-header, .dark-grid .ag-floating-filter-input {
+  color: #e5e7eb !important;
+}
+.dark-grid .ag-icon,
+.dark-grid .ag-header-cell-text {
+  color: #e5e7eb !important;
+}
